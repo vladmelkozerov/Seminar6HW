@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3eec8eb4-46c1-4aa2-a059-43c7a8982a88" name="Changes" comment="1st commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar2hw/Zadanie1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar2hw/Zadanie2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar2hw/Zadanie3.java" afterDir="false" />
+    <list default="true" id="3eec8eb4-46c1-4aa2-a059-43c7a8982a88" name="Changes" comment="2nd commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3hw1/Mainhw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3hw1/model/Commodities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3hw2/Mainhw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3hw2/model/Commodities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3hw3/Mainhw3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3hw3/model/Books.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +40,37 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2LhF2cIrvbL0BYI0y6Phtl2NExa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/admin/Desktop/GeekBrainz/Project 3 (Java)/Seminar 1/Seminar1/src/main/java/org/example"
   }
-}</component>
-  <component name="RunManager" selected="Application.org.example.seminar2hw.Zadanie3">
-    <configuration name="Zadanie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.seminar2hw.Zadanie2" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.seminar3cw2.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\GeekBrainz\Project 3 (Java)\Seminar 1\Seminar1\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Mainhw3">
+    <configuration name="Glav1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.seminar3cw3.Glav1" />
       <module name="Seminar1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.seminar2hw.*" />
+          <option name="PATTERN" value="org.example.seminar3cw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +78,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.seminar2cw.Zadanie3" />
+    <configuration name="Mainhw3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.seminar3hw3.Mainhw3" />
       <module name="Seminar1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.seminar2cw.*" />
+          <option name="PATTERN" value="org.example.seminar3cw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.seminar2hw.Zadanie2" />
+      <module name="Seminar1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.seminar2hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,7 +117,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.seminar2hw.Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="org.example.seminar2hw.Zadanie1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.seminar2hw.Zadanie1" />
       <module name="Seminar1" />
       <extension name="coverage">
@@ -113,13 +143,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Mainhw3" />
+      <item itemvalue="Application.org.example.seminar2hw.Zadanie1" />
+      <item itemvalue="Application.Glav1" />
+      <item itemvalue="Application.org.example.seminar2hw.Zadanie3" />
+      <item itemvalue="Application.Zadanie2" />
+      <item itemvalue="Application.Zadanie4" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Glav1" />
         <item itemvalue="Application.org.example.seminar2hw.Zadanie3" />
         <item itemvalue="Application.Zadanie2" />
-        <item itemvalue="Application.org.example.seminar2hw.Zadanie1" />
         <item itemvalue="Application.Zadanie4" />
-        <item itemvalue="Application.Zadanie3" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676316452092</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1st commit">
+      <created>1676488029688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676488029688</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1st commit">
+      <created>1676488113961</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676488113961</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
